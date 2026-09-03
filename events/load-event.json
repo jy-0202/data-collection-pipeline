@@ -1,5 +1,5 @@
 {
-  "batch_id": "20260901_115210",
-  "bucket": "books-pipeline-databucket-okgonfpoakxe",
-  "processed_key": "processed/20260901_115210/books_pages_001_003_processed_20260901_115210.csv"
+  "batch_id": "20260903_155425",
+  "bucket": "books-pipeline-databucket-ylr9ukbvpswx",
+  "processed_key": "processed/20260903_155425/books_pages_001_003_processed_20260903_155425.csv"
 }
